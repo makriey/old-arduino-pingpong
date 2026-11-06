@@ -1,6 +1,6 @@
-﻿# old-arduino-pingpong 
+﻿# old-arduino-pingpong
 
-An old version of a Ping Pong game for Arduino.
+An old version of a Ping Pong game for Arduino, made for learning C++.
 
 This project was moved from my old account. It is kept here as an archive, unchanged.
 
@@ -23,4 +23,4 @@ The board I used for this project is modified and has an additional potentiomete
 
 This is an old version and is no longer developed.
 
-<!-- for learning c++ -->
+
